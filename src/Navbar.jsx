@@ -10,7 +10,7 @@ function Navbar() {
     }}>
         <NavLink id="nava" to="/">Home</NavLink>
             
-        <NavLink id="nava2"to="/paste">Paste</NavLink>
+        <NavLink id="nava2"to="/paste">Pastes</NavLink>
 
        
     </div>
